@@ -27,7 +27,7 @@ Legend: **R** Responsible, **A** Accountable, **C** Consulted, **I** Informed
 
 ## Operating Cadence
 
-- **Daily 15-min standup** (owner: takescake)
+- **Weekly update** (owner: takescake)
 - **Twice-weekly integration check** (owner: Vishwadeep)
 - **Weekly scoring review** (owner: Brainydaps)
 - **Weekly demo rehearsal** (owner: Dr.Whales)
